@@ -1,0 +1,23 @@
+{
+  "name": "a11ygator-html-standard",
+  "version": "1.0.0",
+  "bin": {
+    "ag-convert-html": "./bin/ag-convert-html.js",
+    "ag-convert-pdf": "./bin/ag-convert-pdf.js"
+  },
+  "keywords": [],
+  "author": "Anthony Weed <aweed1@swarthmore.edu>",
+  "license": "ISC",
+  "devDependencies": {
+    "mustache": "^4.2.0"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "gm": "^1.25.0",
+    "jsdom": "^21.1.1",
+    "mkdirp": "^3.0.1",
+    "node-poppler": "^6.2.2",
+    "rimraf": "^5.0.0",
+    "yargs": "^17.7.1"
+  }
+}
