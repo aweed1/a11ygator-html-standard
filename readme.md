@@ -1,16 +1,6 @@
 # a11ygator-html-standard
 
-This document outlines the a11ygator html-based document standard. This repository also contains a script to convert a PDF to the a11ygator standard.
-
-## Usage
-
-```bash
-# Convert filename.pdf to a11ygator HTML. [filename.json] is optional. If not provided, the script will attempt to extract the required data.
-ag-convert-pdf filename.pdf [filename.json]
-
-# Convert filename.html to a11ygator HTML. [filename.json] is optional. If not provided, the script will attempt to extract the required data.
-ag-convert-html filename.html [filename.json]
-```
+This document outlines the a11ygator html-based document standard.
 
 ### Data format
 
