@@ -28,5 +28,7 @@ When running the script with a supplemental `filename.json` file, the json shoul
     "lastmodified": "number",
     // The content of the book. This should be in HTML format, but stringified.
     "content": "string"
+    // The remediation level of the document.
+    "remediationlevel": "string"
 }
 ```
